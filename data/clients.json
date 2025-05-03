@@ -1,0 +1,7 @@
+{
+    "test": {
+        "client_secret": "test",
+        "redirect_uris": ["http://localhost:8080/login"],
+        "allowed_scopes": ["test"]
+    }
+}

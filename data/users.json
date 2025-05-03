@@ -1,0 +1,16 @@
+{
+    "test": {
+        "password": "test",
+        "valid": "true",
+        "pin": "99999999999999",
+        "pport_no": "M9199",
+        "first_name": "Tom",
+        "sur_name": "Hanks",
+        "mid_name": "Anatoliy",
+        "full_name": "Tom Anatoliy Hanks",
+        "user_id": "test",
+        "auth_method": "LOGINPASSMETHOD",
+        "pkcs_legal_tin": null,
+        "legal_info": []
+    }
+}
