@@ -33,7 +33,7 @@ from urllib.parse import urlencode, urlparse, parse_qs, unquote_plus
 from fastapi import FastAPI, Form, HTTPException, Request, status
 from fastapi.responses import HTMLResponse, JSONResponse, RedirectResponse
 from fastapi.templating import Jinja2Templates
-from .json_store import JSONStore
+from json_store import JSONStore
 
 # ---------------------------------------------------------------------------
 # ⬇️ Configuration & *VERY* temporary in‑memory storage
